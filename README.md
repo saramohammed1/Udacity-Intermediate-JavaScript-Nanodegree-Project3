@@ -63,3 +63,7 @@ To complete the project you must first create the calls to the API. These will a
 
 
 To complete the race logic, find all the TODO tags in index.js and read the instructions.
+
+###Screenshot
+<img width="911" alt="2023-05-03 (6)" src="https://user-images.githubusercontent.com/113782279/235803590-21c0f5ca-6aa1-48f2-a6d0-c36350385363.png">
+
